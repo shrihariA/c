@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<coino.h>
+#include<conio.h>
 struct user{
 int age;
 char name[30];
