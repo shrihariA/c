@@ -1,0 +1,34 @@
+#include<stdio.h>
+#include<coino.h>
+struct user{
+int age;
+char name[30];
+char firstname[10];
+char lastname;
+char lastname;
+int phno;
+char address;
+}s[n];
+int maiun()
+{
+ int i;
+ printf('enter information");
+ for(i=0;i<n;++i)
+ {
+ printf("enter the user4 nam,e\n");
+ scanf("%s"&s[i].name);
+ printf("enter the age\n");
+ scanf("%d",&s[i].dob\n);
+ printf("enter the firstname\n");
+ scanf("%s",&s[i].firstname);
+ printf("enter the last name\n");
+ scanf("%s",&s[i].lastname);
+ printf("user"\n);
+ //display
+ for(i=0;i<n,i++)
+ {
+  printf("firstname",s[i]
+  printf("lastname",s[i]
+  }
+  return 0;
+ }
